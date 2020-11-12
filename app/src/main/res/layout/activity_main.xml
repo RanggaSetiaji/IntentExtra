@@ -13,7 +13,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:onClick="calling"
-        android:text="Telepon ayah" />
+        android:text="Telepon Bapak" />
 
     <Button
         android:id="@+id/btnSpada"
